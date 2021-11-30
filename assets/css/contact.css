@@ -1,0 +1,52 @@
+form input{
+    width: 450px;
+    height: 35px;
+}
+
+input{
+    margin: 10px 0px;
+    padding: 10px;
+}
+
+form textarea{
+    width: 450px;
+    height: 80px;
+    margin: 10px 0px;
+    padding: 10px;
+}
+
+main{
+    display: flex;
+    color: white;
+    padding: 100px 0px;
+    width: 100vw;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+main div h4{
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+}
+
+main div p{
+    width: 40vw;
+    line-height: 20px;
+}
+
+form button{
+    cursor: pointer;
+    color: white;
+    padding: 15px 30px;
+    font-size: 1.25rem;
+    background: none;
+    border: 1px white solid;
+    transition: 0.2s ease;
+}
+
+form button:hover{
+    color: black;
+    background: white;
+
+
+}
