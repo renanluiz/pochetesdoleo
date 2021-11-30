@@ -41,25 +41,25 @@ main{
 }
 
 .products-group .product:nth-child(2){
-    background: url("/assets/img/hat1.jpg");
+    background: url("../img/hat1.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .products-group .product:nth-child(3){
-    background: url("/assets/img/hat2.jpeg");
+    background: url("../img/hat2.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .products-group .product:nth-child(4){ 
-    background: url("/assets/img/hat3.jpeg");
+    background: url("../img/hat3.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .products-group .product:nth-child(5){
-    background: url("/assets/img/hat4.jpeg");
+    background: url("../img/hat4.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
 

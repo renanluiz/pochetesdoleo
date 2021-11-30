@@ -18,77 +18,77 @@
 }
 
 .products-group .product:nth-child(1){
-    background: url("/assets/img/produto1.jpeg");
+    background: url("../img/produto1.jpeg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .products-group .product:nth-child(2){
-    background: url("/assets/img/produto2.jpeg");
+    background: url("../img/produto2.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .products-group .product:nth-child(3){
-    background: url("/assets/img/produto3.jpeg");
+    background: url("../img/produto3.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .products-group .product:nth-child(4){ 
-    background: url("/assets/img/produto4.jpeg");
+    background: url("../img/produto4.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .products-group .product:nth-child(5){
-    background: url("/assets/img/produto5.jpeg");
+    background: url("../img/produto5.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
 
 }
 
 .products-group .product:nth-child(6){
-    background: url("/assets/img/produto6.jpeg");
+    background: url("../img/produto6.jpeg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .products-group .product:nth-child(7){
-    background: url("/assets/img/produto7.jpeg");
+    background: url("../img/produto7.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .products-group .product:nth-child(8){
-    background: url("/assets/img/produto8.jpeg");
+    background: url("../img/produto8.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .products-group .product:nth-child(9){ 
-    background: url("/assets/img/produto9.jpeg");
+    background: url("../img/produto9.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .products-group .product:nth-child(10){
-    background: url("/assets/img/produto10.jpeg");
+    background: url("../img/produto10.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
 
 }
 
 .products-group .product:nth-child(11){ 
-    background: url("/assets/img/produto11.jpeg");
+    background: url("../img/produto11.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .products-group .product:nth-child(12){
-    background: url("/assets/img/produto12.jpeg");
+    background: url("../img/produto12.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
 
